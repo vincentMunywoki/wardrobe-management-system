@@ -73,6 +73,20 @@ php artisan serve
 | PUT | `/api/clothing-items/{id}` | Update a clothing item |
 | DELETE | `/api/clothing-items/{id}` | Delete a clothing item |
 
+## Project Screenshots
+![Screenshot from 2025-02-27 01-08-50](https://github.com/user-attachments/assets/efd62605-d0c2-457d-85d4-f3a169b02952)
+
+![Screenshot from 2025-02-27 01-08-56](https://github.com/user-attachments/assets/66dbaa17-237a-4e9a-911a-3e970d55e561)
+
+![Screenshot from 2025-02-27 01-27-49](https://github.com/user-attachments/assets/872674af-1887-4122-984b-9f7a7099967a)
+
+![Screenshot from 2025-02-27 01-28-34](https://github.com/user-attachments/assets/ec07da8a-a937-46d6-8907-0e194c1153d1)
+
+![Screenshot from 2025-02-27 01-28-43](https://github.com/user-attachments/assets/acc594e0-be69-4649-847c-0edbb41872d5)
+
+![Screenshot from 2025-02-27 01-28-52](https://github.com/user-attachments/assets/09a50132-ac83-41b7-97b7-9f8d2f180609)
+
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
