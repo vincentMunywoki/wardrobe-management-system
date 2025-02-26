@@ -90,15 +90,15 @@ php artisan serve
 
 ![Screenshot from 2025-02-27 01-27-49](https://github.com/user-attachments/assets/872674af-1887-4122-984b-9f7a7099967a)
 
-### Filtering by tops
+### Filtering by Shoes
 
 ![Screenshot from 2025-02-27 01-28-34](https://github.com/user-attachments/assets/ec07da8a-a937-46d6-8907-0e194c1153d1)
 
-### Filtering by Bottoms
+### Filtering by tops
 
 ![Screenshot from 2025-02-27 01-28-43](https://github.com/user-attachments/assets/acc594e0-be69-4649-847c-0edbb41872d5)
 
-### Filtering by Shoes
+### Filtering by Bottoms
 
 ![Screenshot from 2025-02-27 01-28-52](https://github.com/user-attachments/assets/09a50132-ac83-41b7-97b7-9f8d2f180609)
 
