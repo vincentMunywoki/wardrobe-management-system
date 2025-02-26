@@ -10,7 +10,8 @@
       <router-link to="/register" class="switch-btn">Register Here</router-link></p>
     </div>
   </template>
-  
+
+
   <script>
   import authService from '@/services/authService';
   
