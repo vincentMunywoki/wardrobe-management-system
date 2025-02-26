@@ -12,7 +12,7 @@ const handleLogin = () => {
 </script>
 
 <template>
-  <div class="flex flex-col items-center justify-center h-screen bg-gray-100">
+  <div class="flex flex-col items-center justify-center h-screen bg-gray-100 !important;">
     <div class="bg-white p-6 rounded-lg shadow-md w-80">
       <h2 class="text-xl font-semibold text-center mb-4">Login</h2>
       <input v-model="email" type="email" placeholder="Email" class="w-full p-2 border rounded mb-2" />
