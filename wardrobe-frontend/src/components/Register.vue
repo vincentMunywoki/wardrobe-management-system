@@ -4,7 +4,7 @@
       <form @submit.prevent="register">
         <input v-model="user.name" type="text" placeholder="Name" required />
         <input v-model="user.email" type="email" placeholder="Email" required />
-        <input v-model="user.password" type="password" placeholder="Password" required />
+        <input v-model="user.password" type="password" placeholder="Password." required />
         <button type="submit">Register</button>
       </form>
     </div>
