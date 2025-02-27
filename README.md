@@ -35,7 +35,7 @@ Ensure you have the following installed:
 ### Setting Up the Frontend
 ```sh
 # Clone the repository
-git clone https://github.com/incentMunywoki/wardrobe-management-system.git
+git clone https://github.com/vincentMunywoki/wardrobe-management-system.git
 cd wardrobe-management-system
 
 # Install dependencies
@@ -102,10 +102,6 @@ php artisan serve
 
 ![Screenshot from 2025-02-27 01-28-52](https://github.com/user-attachments/assets/09a50132-ac83-41b7-97b7-9f8d2f180609)
 
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Author
 Developed by Vincent Munywoki.
 
@@ -113,5 +109,6 @@ Developed by Vincent Munywoki.
 Feel free to contribute by submitting pull requests or reporting issues.
 
 ## Contact
-For any inquiries, reach out via email: vincentmunywoki12@gmail.com.
+For any inquiries, reach out via email: vincentmunywoki12@gmail.com
+
 
