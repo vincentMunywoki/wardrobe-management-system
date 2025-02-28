@@ -11,7 +11,13 @@ A web application that helps users organize their clothing items. Built with Vue
 -  Responsive and user-friendly UI
 
 ## Technologies Used
-
+### Frontend:
+- Vue 3
+- Vue Router
+- Vuex
+- CSS3
+- Tailwind CSS
+- Axios
 
 ### Backend:
 - Laravel 11
