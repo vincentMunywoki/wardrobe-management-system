@@ -11,6 +11,9 @@ export default {
     return axios.post(`${API_URL}/login`, credentials);
   },
 
+  async logout(token) {
+    return axios.post(`${API_URL}/logout`, {}, {
+      headers: { Authorization: `Bearer ${token}` }
     });
   }
 };
