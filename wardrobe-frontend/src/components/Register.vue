@@ -11,7 +11,6 @@
       <router-link to="/login" class="switch-btn">Login Here</router-link></p>
     </div>
   </template>
-
   
   <script>
   import authService from '@/services/authService';
