@@ -10,6 +10,7 @@ export default {
   async login(credentials) {
     return axios.post(`${API_URL}/login`, credentials);
   },
+  
 
   async logout(token) {
     return axios.post(`${API_URL}/logout`, {}, {
